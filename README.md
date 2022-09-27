@@ -5,4 +5,4 @@
 
 - If you want to contact me: **barretoguel@gmail.com**
 
-<p> <img align="center" src="https://i.imgflip.com/6b51to.png"/> </p>
+<p align="center"> <img src="https://i.imgflip.com/6b51to.png"/> </p>
