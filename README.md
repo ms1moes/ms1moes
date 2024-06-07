@@ -1,7 +1,7 @@
 ![MasterHead](img.jpg)
 <h2 align="center"> I'm an average C enjoyer </h2>
 
-- Currently I only know how to code in C but I'm looking forward to learn more languages soon! 
+- Currently I only know how to code in C and C++ but I'm looking forward to learn more languages soon! 
 
 - If you want to contact me: **barretoguel@gmail.com**
 
