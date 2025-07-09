@@ -1,7 +1,7 @@
 ![MasterHead](img.jpg)
 <h2 align="center"> I'm an average C enjoyer </h2>
 
-- Currently my main languages are C/C++ but i know a little bit of javascript and python !
+- Currently my main languages are C/C++ but I am able to adapt !
 
 - If you want to contact me: **barretoguel@gmail.com**
 
